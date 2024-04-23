@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Food",
+      "image": "https://unsplash.com/photos/raw-meat-on-white-ceramic-plate-YlAmh_X_SsE"
+    },
+    {
+      "id": 2,
+      "name": "Snacks",
+      "image": "https://unsplash.com/photos/round-white-ceramic-plate-filled-with-waffle-hrlvr2ZlUNk"
+    },
+    {
+      "id": 3,
+      "name": "Beverages",
+      "image": "https://unsplash.com/photos/six-clear-glass-mason-jars-filled-with-juice-on-black-table-jcLcWL8D7AQ"
+    },
+    {
+      "id": 4,
+      "name": "Fruits",
+      "image": "https://unsplash.com/photos/sliced-orange-fruit-and-green-round-fruits-M_xIaxQE3Ms"
+    }
+  ]
+}
