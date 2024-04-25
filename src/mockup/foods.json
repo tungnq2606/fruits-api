@@ -4,91 +4,106 @@
       "id": 1,
       "name": "Chicken Breast",
       "description": "Boneless, skinless chicken breast",
-      "image": "https://images.unsplash.com/photo-1633096013004-e2cb4023b560?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image": "https://images.unsplash.com/photo-1633096013004-e2cb4023b560?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "unit": "1kg"
     },
     {
       "id": 2,
       "name": "Salmon Fillet",
       "description": "Fresh salmon fillet",
-      "image": "https://images.unsplash.com/photo-1499125562588-29fb8a56b5d5?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image": "https://images.unsplash.com/photo-1499125562588-29fb8a56b5d5?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "unit": "1kg"
     },
     {
       "id": 3,
       "name": "Beef Steak",
       "description": "Prime beef steak",
-      "image": "https://images.unsplash.com/photo-1588347818036-558601350947?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image": "https://images.unsplash.com/photo-1588347818036-558601350947?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "unit": "1kg"
     },
     {
       "id": 4,
       "name": "Tuna Steak",
       "description": "Sushi-grade tuna steak",
-      "image": "https://plus.unsplash.com/premium_photo-1695399564855-1f531f66a8ee?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image": "https://plus.unsplash.com/premium_photo-1695399564855-1f531f66a8ee?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "unit": "1kg"
     },
     {
       "id": 5,
       "name": "Pork Chop",
       "description": "Center-cut pork chop",
-      "image": "https://images.unsplash.com/photo-1628268909376-e8c44bb3153f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image": "https://images.unsplash.com/photo-1628268909376-e8c44bb3153f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "unit": "1kg"
     },
     {
       "id": 6,
       "name": "Tofu",
       "description": "Organic tofu",
-      "image": "https://images.pexels.com/photos/4518584/pexels-photo-4518584.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/4518584/pexels-photo-4518584.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "unit": "1kg"
     },
     {
       "id": 7,
       "name": "Chicken",
       "description": "Full chicken",
-      "image": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "unit": "1kg"
     },
     {
       "id": 8,
       "name": "Chicken Eggs",
       "description": "Farm-fresh chicken eggs",
-      "image": "https://images.unsplash.com/photo-1498654077810-12c21d4d6dc3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image": "https://images.unsplash.com/photo-1498654077810-12c21d4d6dc3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "unit": "12 pcs"
     },
     {
       "id": 9,
       "name": "Shrimp",
       "description": "Jumbo shrimp, peeled and deveined",
-      "image": "https://images.unsplash.com/photo-1504309250229-4f08315f3b5c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image": "https://images.unsplash.com/photo-1504309250229-4f08315f3b5c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "unit": "1kg"
     },
     {
       "id": 10,
       "name": "Crab",
       "description": "Fresh crab",
-      "image": "https://images.unsplash.com/photo-1704972475323-96d8ef255304?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image": "https://images.unsplash.com/photo-1704972475323-96d8ef255304?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "unit": "1kg"
     },
     {
       "id": 11,
       "name": "Bacon Strips",
       "description": "Thick-cut bacon strips",
-      "image": "https://images.unsplash.com/photo-1706167754787-4629b6f40d04?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image": "https://images.unsplash.com/photo-1706167754787-4629b6f40d04?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "unit": "1kg"
     },
     {
       "id": 12,
       "name": "Squid",
       "description": "Fresh squid",
-      "image": "https://images.unsplash.com/photo-1697896947107-eb1666e3f6c6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image": "https://images.unsplash.com/photo-1697896947107-eb1666e3f6c6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "unit": "1kg"
     },
     {
       "id": 13,
       "name": "Lamb",
       "description": "Boneless lamb meat",
-      "image": "https://images.pexels.com/photos/65175/pexels-photo-65175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/65175/pexels-photo-65175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "unit": "1kg"
     },
     {
       "id": 14,
       "name": "Cabbage",
       "description": "Fresh cabbage",
-      "image": "https://images.unsplash.com/photo-1603049404411-13c2ca81a316?q=80&w=2082&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image": "https://images.unsplash.com/photo-1603049404411-13c2ca81a316?q=80&w=2082&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "unit": "1kg"
     },
     {
       "id": 15,
       "name": "Brocoli",
       "description": "Fresh brocoli",
-      "image": "https://images.unsplash.com/photo-1594885270039-f8871b502f7f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "image": "https://images.unsplash.com/photo-1594885270039-f8871b502f7f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "unit": "1kg"
     }
   ]
 }

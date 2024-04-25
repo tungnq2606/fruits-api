@@ -5,105 +5,120 @@
       "name": "Apple",
       "price": 1.99,
       "description": "An apple is an edible fruit produced by an apple tree.",
-      "image": "https://images.pexels.com/photos/347926/pexels-photo-347926.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/347926/pexels-photo-347926.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "unit": "1kg"
     },
     {
       "id": 2,
       "name": "Banana",
       "price": 0.99,
       "description": "A banana is an elongated, edible fruit – botanically a berry.",
-      "image": "https://images.pexels.com/photos/5945855/pexels-photo-5945855.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/5945855/pexels-photo-5945855.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "unit": "1kg"
     },
     {
       "id": 3,
       "name": "Cherry",
       "price": 4.99,
       "description": "A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe.",
-      "image": "https://images.pexels.com/photos/1178610/pexels-photo-1178610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/1178610/pexels-photo-1178610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "unit": "1kg"
     },
     {
       "id": 4,
       "name": "Grape",
       "price": 3.99,
       "description": "A grape is a fruit that grows in clusters of 15 to 300, and can be crimson, black, dark blue, yellow, green, orange, and pink.",
-      "image": "https://images.pexels.com/photos/708777/pexels-photo-708777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/708777/pexels-photo-708777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "unit": "1kg"
     },
     {
       "id": 5,
       "name": "Durian",
       "price": 9.99,
       "description": "The durian is the fruit of several tree species belonging to the genus Durio.",
-      "image": "https://images.pexels.com/photos/12189378/pexels-photo-12189378.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/12189378/pexels-photo-12189378.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "unit": "1kg"
     },
     {
       "id": 6,
       "name": "Kiwi",
       "price": 2.99,
       "description": "Kiwifruit, or Chinese gooseberry is the edible berry of several species of woody vines in the genus Actinidia.",
-      "image": "https://images.pexels.com/photos/54370/pexels-photo-54370.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/54370/pexels-photo-54370.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "unit": "1kg"
     },
     {
       "id": 7,
       "name": "Lemon",
       "price": 1.49,
       "description": "The lemon is a species of small evergreen tree in the flowering plant family Rutaceae.",
-      "image": "https://images.pexels.com/photos/1002543/pexels-photo-1002543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/1002543/pexels-photo-1002543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "unit": "1kg"
     },
     {
       "id": 8,
       "name": "Orange",
       "price": 1.49,
       "description": "The orange is the fruit of various citrus species in the family Rutaceae.",
-      "image": "https://images.pexels.com/photos/161559/background-bitter-breakfast-bright-161559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/161559/background-bitter-breakfast-bright-161559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "unit": "1kg"
     },
     {
       "id": 9,
       "name": "Pineapple",
       "price": 5.99,
       "description": "The pineapple is a tropical plant with an edible fruit and the most economically significant plant in the family Bromeliaceae.",
-      "image": "https://images.pexels.com/photos/1161547/pexels-photo-1161547.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/1161547/pexels-photo-1161547.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "unit": "1kg"
     },
     {
       "id": 10,
       "name": "Strawberry",
       "price": 3.99,
       "description": "The garden strawberry is a widely grown hybrid species of the genus Fragaria.",
-      "image": "https://images.pexels.com/photos/6534618/pexels-photo-6534618.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/6534618/pexels-photo-6534618.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "unit": "1kg"
     },
     {
       "id": 11,
       "name": "Watermelon",
       "price": 6.99,
       "description": "Watermelon is a flowering plant species of the Cucurbitaceae family.",
-      "image": "https://images.pexels.com/photos/2403850/pexels-photo-2403850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/2403850/pexels-photo-2403850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "unit": "1kg"
     },
     {
       "id": 12,
       "name": "Mango",
       "price": 4.99,
       "description": "A mango is a stone fruit produced from numerous species of tropical trees belonging to the flowering plant genus Mangifera.",
-      "image": "https://images.pexels.com/photos/4955257/pexels-photo-4955257.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/4955257/pexels-photo-4955257.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "unit": "1kg"
     },
     {
       "id": 13,
       "name": "Peach",
       "price": 3.99,
       "description": "The peach is a deciduous tree native to the region of Northwest China between the Tarim Basin and the north slopes of the Kunlun Mountains.",
-      "image": "https://images.pexels.com/photos/1268122/pexels-photo-1268122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/1268122/pexels-photo-1268122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "unit": "1kg"
     },
     {
       "id": 14,
       "name": "Pear",
       "price": 2.99,
       "description": "The pear is any of several tree and shrub species of genus Pyrus, in the family Rosaceae.",
-      "image": "https://images.pexels.com/photos/568471/pexels-photo-568471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/568471/pexels-photo-568471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "unit": "1kg"
     },
     {
       "id": 15,
       "name": "Plum",
       "price": 3.99,
       "description": "A plum is a fruit of the subgenus Prunus of the genus Prunus.",
-      "image": "https://images.pexels.com/photos/248440/pexels-photo-248440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "image": "https://images.pexels.com/photos/248440/pexels-photo-248440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "unit": "1kg"
     }
   ]
 }
