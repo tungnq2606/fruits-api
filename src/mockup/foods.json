@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "Chicken Breast",
+      "price": 8.99,
       "description": "Boneless, skinless chicken breast",
       "image": "https://images.unsplash.com/photo-1633096013004-e2cb4023b560?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "1kg"
@@ -10,6 +11,7 @@
     {
       "id": 2,
       "name": "Salmon Fillet",
+      "price": 10.99,
       "description": "Fresh salmon fillet",
       "image": "https://images.unsplash.com/photo-1499125562588-29fb8a56b5d5?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "1kg"
@@ -17,6 +19,7 @@
     {
       "id": 3,
       "name": "Beef Steak",
+      "price": 12.99,
       "description": "Prime beef steak",
       "image": "https://images.unsplash.com/photo-1588347818036-558601350947?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "1kg"
@@ -24,6 +27,7 @@
     {
       "id": 4,
       "name": "Tuna Steak",
+      "price": 15.99,
       "description": "Sushi-grade tuna steak",
       "image": "https://plus.unsplash.com/premium_photo-1695399564855-1f531f66a8ee?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "1kg"
@@ -31,6 +35,7 @@
     {
       "id": 5,
       "name": "Pork Chop",
+      "price": 9.99,
       "description": "Center-cut pork chop",
       "image": "https://images.unsplash.com/photo-1628268909376-e8c44bb3153f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "1kg"
@@ -38,6 +43,7 @@
     {
       "id": 6,
       "name": "Tofu",
+      "price": 2.99,
       "description": "Organic tofu",
       "image": "https://images.pexels.com/photos/4518584/pexels-photo-4518584.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "unit": "1kg"
@@ -45,6 +51,7 @@
     {
       "id": 7,
       "name": "Chicken",
+      "price": 6.99,
       "description": "Full chicken",
       "image": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "1kg"
@@ -52,6 +59,7 @@
     {
       "id": 8,
       "name": "Chicken Eggs",
+      "price": 3.99,
       "description": "Farm-fresh chicken eggs",
       "image": "https://images.unsplash.com/photo-1498654077810-12c21d4d6dc3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "12 pcs"
@@ -59,6 +67,7 @@
     {
       "id": 9,
       "name": "Shrimp",
+      "price": 18.99,
       "description": "Jumbo shrimp, peeled and deveined",
       "image": "https://images.unsplash.com/photo-1504309250229-4f08315f3b5c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "1kg"
@@ -66,6 +75,7 @@
     {
       "id": 10,
       "name": "Crab",
+      "price": 20.99,
       "description": "Fresh crab",
       "image": "https://images.unsplash.com/photo-1704972475323-96d8ef255304?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "1kg"
@@ -73,6 +83,7 @@
     {
       "id": 11,
       "name": "Bacon Strips",
+      "price": 7.99,
       "description": "Thick-cut bacon strips",
       "image": "https://images.unsplash.com/photo-1706167754787-4629b6f40d04?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "1kg"
@@ -80,6 +91,7 @@
     {
       "id": 12,
       "name": "Squid",
+      "price": 14.99,
       "description": "Fresh squid",
       "image": "https://images.unsplash.com/photo-1697896947107-eb1666e3f6c6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "1kg"
@@ -87,6 +99,7 @@
     {
       "id": 13,
       "name": "Lamb",
+      "price": 16.99,
       "description": "Boneless lamb meat",
       "image": "https://images.pexels.com/photos/65175/pexels-photo-65175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "unit": "1kg"
@@ -94,6 +107,7 @@
     {
       "id": 14,
       "name": "Cabbage",
+      "price": 1.99,
       "description": "Fresh cabbage",
       "image": "https://images.unsplash.com/photo-1603049404411-13c2ca81a316?q=80&w=2082&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "1kg"
@@ -101,6 +115,7 @@
     {
       "id": 15,
       "name": "Brocoli",
+      "price": 2.99,
       "description": "Fresh brocoli",
       "image": "https://images.unsplash.com/photo-1594885270039-f8871b502f7f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "1kg"

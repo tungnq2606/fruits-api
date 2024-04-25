@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "Croissant",
+      "price": 2.99,
       "description": "Buttery, flaky croissant",
       "image": "https://images.unsplash.com/photo-1623334044303-241021148842?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "2pcs"
@@ -10,6 +11,7 @@
     {
       "id": 2,
       "name": "Chocolate Chip Cookies",
+      "price": 3.99,
       "description": "Classic chocolate chip cookies",
       "image": "https://images.unsplash.com/photo-1583743089695-4b816a340f82?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "2pcs"
@@ -17,6 +19,7 @@
     {
       "id": 3,
       "name": "Baguette",
+      "price": 4.99,
       "description": "Freshly baked French baguette",
       "image": "https://images.unsplash.com/photo-1602557618699-b5a418628614?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "2pcs"
@@ -24,6 +27,7 @@
     {
       "id": 4,
       "name": "Potato Chips",
+      "price": 1.99,
       "description": "Crispy potato chips",
       "image": "https://plus.unsplash.com/premium_photo-1677651864953-9aea9d60aec3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "2pcs"
@@ -31,6 +35,7 @@
     {
       "id": 5,
       "name": "Cinnamon Roll",
+      "price": 2.99,
       "description": "Soft, gooey cinnamon roll",
       "image": "https://plus.unsplash.com/premium_photo-1663926403458-9ccbac30aa45?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "2pcs"
@@ -38,6 +43,7 @@
     {
       "id": 6,
       "name": "Pretzels",
+      "price": 1.99,
       "description": "Salty pretzels",
       "image": "https://images.unsplash.com/photo-1511951786553-1d4f975424c9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "2pcs"
@@ -45,6 +51,7 @@
     {
       "id": 7,
       "name": "Brownies",
+      "price": 3.99,
       "description": "Rich, fudgy brownies",
       "image": "https://images.unsplash.com/photo-1588539543889-20cc7ce4df55?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "2pcs"
@@ -52,6 +59,7 @@
     {
       "id": 8,
       "name": "Popcorn",
+      "price": 1.99,
       "description": "Buttered popcorn",
       "image": "https://images.unsplash.com/photo-1622155037308-2fad9f04f86d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "2pcs"
@@ -59,6 +67,7 @@
     {
       "id": 9,
       "name": "Scones",
+      "price": 2.99,
       "description": "Freshly baked scones",
       "image": "https://images.unsplash.com/photo-1589114471223-dec0d8d572c6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "2pcs"
@@ -66,6 +75,7 @@
     {
       "id": 10,
       "name": "Tortilla Chips",
+      "price": 1.99,
       "description": "Crunchy tortilla chips",
       "image": "https://images.unsplash.com/photo-1600891965230-bab485b08bbd?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "2pcs"
@@ -73,6 +83,7 @@
     {
       "id": 11,
       "name": "Doughnuts",
+      "price": 2.99,
       "description": "Glazed doughnuts",
       "image": "https://images.unsplash.com/photo-1583096114844-06ce5a5f2171?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "2pcs"
@@ -80,6 +91,7 @@
     {
       "id": 12,
       "name": "Granola Bars",
+      "price": 2.99,
       "description": "Nutty granola bars",
       "image": "https://images.unsplash.com/photo-1633360821154-1935fb5671e6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "2pcs"
@@ -87,6 +99,7 @@
     {
       "id": 13,
       "name": "Muffins",
+      "price": 2.99,
       "description": "Blueberry muffins",
       "image": "https://images.unsplash.com/photo-1607958996333-41aef7caefaa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "2pcs"
@@ -94,6 +107,7 @@
     {
       "id": 14,
       "name": "Cheese Crackers",
+      "price": 1.99,
       "description": "Savory cheese crackers",
       "image": "https://images.unsplash.com/photo-1442604699113-7d805614c476?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "2pcs"
@@ -101,6 +115,7 @@
     {
       "id": 15,
       "name": "Shortbread Cookies",
+      "price": 2.99,
       "description": "Buttery shortbread cookies",
       "image": "https://images.unsplash.com/photo-1531685389096-a6e156912c21?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "unit": "2pcs"
