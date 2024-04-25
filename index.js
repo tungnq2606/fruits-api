@@ -5,6 +5,7 @@ const fruits = require("./src/mockup/fruits.json");
 const foods = require("./src/mockup/foods.json");
 const snacks = require("./src/mockup/snacks.json");
 const drinks = require("./src/mockup/drinks.json");
+const best_seller = require("./src/mockup/best-seller.json");
 
 app.get("/api/v1/fruits", (req, res) => {
   res.json({
@@ -28,6 +29,12 @@ app.get("/api/v1/snacks", (req, res) => {
   res.json({
     ...snacks,
     total: snacks.data.length,
+  });
+});
+app.get("/api/v1/best-seller", (req, res) => {
+  res.json({
+    ...best_seller,
+    total: best_seller.data.length,
   });
 });
 

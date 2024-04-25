@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Sprite Can",
+      "price": 1.5,
+      "description": "Sprite Can 330ml",
+      "image": "https://images.unsplash.com/photo-1690988109041-458628590a9e?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "unit": "330ml"
+    },
+    {
+      "id": 2,
+      "name": "Salmon Fillet",
+      "description": "Fresh salmon fillet",
+      "image": "https://images.unsplash.com/photo-1499125562588-29fb8a56b5d5?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "unit": "1kg"
+    },
+    {
+      "id": 4,
+      "name": "Potato Chips",
+      "description": "Crispy potato chips",
+      "image": "https://plus.unsplash.com/premium_photo-1677651864953-9aea9d60aec3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "unit": "2pcs"
+    },
+    {
+      "id": 9,
+      "name": "Pineapple",
+      "price": 5.99,
+      "description": "The pineapple is a tropical plant with an edible fruit and the most economically significant plant in the family Bromeliaceae.",
+      "image": "https://images.pexels.com/photos/1161547/pexels-photo-1161547.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "unit": "1kg"
+    },
+    {
+      "id": 7,
+      "name": "Chicken",
+      "description": "Full chicken",
+      "image": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "unit": "1kg"
+    },
+    {
+      "id": 11,
+      "name": "Watermelon",
+      "price": 6.99,
+      "description": "Watermelon is a flowering plant species of the Cucurbitaceae family.",
+      "image": "https://images.pexels.com/photos/2403850/pexels-photo-2403850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "unit": "1kg"
+    },
+    {
+      "id": 12,
+      "name": "Squid",
+      "description": "Fresh squid",
+      "image": "https://images.unsplash.com/photo-1697896947107-eb1666e3f6c6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "unit": "1kg"
+    }
+  ]
+}
