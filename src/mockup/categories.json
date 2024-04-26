@@ -4,8 +4,8 @@
       "id": 1,
       "name": "Food",
       "image": "https://s3-alpha-sig.figma.com/img/22d3/aac2/57974f1aad9e0ec045f5bfc22ef5a6ab?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bRSaWNSqe-QMl01HiR7Vz-674z7FCRCAHAk3po9zdU2yXUxTukycOIMHfr9-JDrnBcTGm6668k557h7PwZ2CiQOgyVPCJR54ckSqFuh5fUqyhoPsCnolDxrTc3eI039xnyz32rEnRFgHwHEpxGpjNMQFzYmGPvuY50xjJuDMI77vk1DzbbQ-urYFzKeOOZEjYWP8wAxR-qPghgwr4iOtpT4bTg49oTfs6DlePZ8k3wQsw8M~~2qfNdEkhexTSzRTjGWDHE6dVY30KFYJ49b7q6-yPKMW68X-UNNUoDjxjzEevObb2JM~SQr2GJSqi9RgXsvx6bXCIGJ6GDNWeMM10Q__",
-      "backgroundColor": "rgba(247, 165, 147, 1)",
-      "borderColor": "rgba(247, 165, 147, 0.25)"
+      "backgroundColor": "rgba(247, 165, 147, 0.25)",
+      "borderColor": "rgba(247, 165, 147, 1)"
     },
     {
       "id": 2,
