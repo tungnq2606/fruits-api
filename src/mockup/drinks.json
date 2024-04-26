@@ -6,7 +6,8 @@
       "price": 1.5,
       "description": "Sprite Can 330ml",
       "image": "https://images.unsplash.com/photo-1690988109041-458628590a9e?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "unit": "330ml"
+      "unit": "330ml",
+      "rating": 5
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "price": 1.5,
       "description": "Coca Cola Can 330ml",
       "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "unit": "355ml"
+      "unit": "355ml",
+      "rating": 4
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "price": 1.5,
       "description": "Fanta Can 330ml",
       "image": "https://images.unsplash.com/photo-1572182148719-22e9e9ddaccd?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "unit": "330ml"
+      "unit": "330ml",
+      "rating": 3
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "price": 1.5,
       "description": "Pepsi Can 330ml",
       "image": "https://images.unsplash.com/photo-1629203849820-fdd70d49c38e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "unit": "330ml"
+      "unit": "330ml",
+      "rating": 4.5
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "price": 1.5,
       "description": "7up Can 330ml",
       "image": "https://images.unsplash.com/photo-1622766815178-641bef2b4630?q=80&w=2119&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "unit": "330ml"
+      "unit": "330ml",
+      "rating": 4
     },
     {
       "id": 6,
@@ -46,7 +51,8 @@
       "price": 1.5,
       "description": "Mirinda Can 330ml",
       "image": "https://www.pexels.com/photo/close-up-photography-of-soda-can-764370/",
-      "unit": "330ml"
+      "unit": "330ml",
+      "rating": 4.5
     },
     {
       "id": 7,
@@ -54,7 +60,8 @@
       "price": 1.5,
       "description": "Mountain Dew Can 330ml",
       "image": "https://images.unsplash.com/photo-1632134547266-ab2cb69602a1?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "unit": "330ml"
+      "unit": "330ml",
+      "rating": 4.5
     },
     {
       "id": 8,
@@ -62,7 +69,8 @@
       "price": 1.5,
       "description": "Schwepp Can 330ml",
       "image": "https://images.unsplash.com/photo-1598614187854-26a60e982dc4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "unit": "330ml"
+      "unit": "330ml",
+      "rating": 5
     },
     {
       "id": 9,
@@ -70,7 +78,8 @@
       "price": 2.5,
       "description": "Orange Juice 330ml",
       "image": "https://images.unsplash.com/photo-1592839971356-a9a5d258c1af?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D  ",
-      "unit": "330ml"
+      "unit": "330ml",
+      "rating": 4.5
     },
     {
       "id": 10,
@@ -78,7 +87,8 @@
       "price": 2.5,
       "description": "Apple Juice 330ml",
       "image": "https://images.unsplash.com/photo-1601055903647-ddf1ee9701b7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "unit": "330ml"
+      "unit": "330ml",
+      "rating": 4
     },
     {
       "id": 11,
@@ -86,7 +96,8 @@
       "price": 2.5,
       "description": "Pineapple Juice 330ml",
       "image": "https://images.unsplash.com/photo-1525904097878-94fb15835963?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "unit": "330ml"
+      "unit": "330ml",
+      "rating": 3.5
     },
     {
       "id": 12,
@@ -94,7 +105,8 @@
       "price": 2.5,
       "description": "Tiger Beer 330ml",
       "image": "https://images.unsplash.com/photo-1624795763669-d3605b99a0cb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "unit": "330ml"
+      "unit": "330ml",
+      "rating": 4.5
     },
     {
       "id": 13,
@@ -102,7 +114,8 @@
       "price": 2.5,
       "description": "Heineken Beer 330ml",
       "image": "https://images.unsplash.com/photo-1563607780-2e21a30a57af?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "unit": "330ml"
+      "unit": "330ml",
+      "rating": 5
     },
     {
       "id": 14,
@@ -110,7 +123,8 @@
       "price": 2.5,
       "description": "Budweiser Beer 330ml",
       "image": "https://images.unsplash.com/photo-1530577313102-69d0aa85b586?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "unit": "330ml"
+      "unit": "330ml",
+      "rating": 4.5
     },
     {
       "id": 15,
@@ -118,7 +132,8 @@
       "price": 2.5,
       "description": "Corona Beer 330ml",
       "image": "https://images.unsplash.com/photo-1473429174434-a8a8d5e0dc2e?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "unit": "330ml"
+      "unit": "330ml",
+      "rating": 4
     }
   ]
 }
