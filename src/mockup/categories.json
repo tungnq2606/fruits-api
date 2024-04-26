@@ -4,25 +4,29 @@
       "id": 1,
       "name": "Food",
       "image": "https://s3-alpha-sig.figma.com/img/22d3/aac2/57974f1aad9e0ec045f5bfc22ef5a6ab?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bRSaWNSqe-QMl01HiR7Vz-674z7FCRCAHAk3po9zdU2yXUxTukycOIMHfr9-JDrnBcTGm6668k557h7PwZ2CiQOgyVPCJR54ckSqFuh5fUqyhoPsCnolDxrTc3eI039xnyz32rEnRFgHwHEpxGpjNMQFzYmGPvuY50xjJuDMI77vk1DzbbQ-urYFzKeOOZEjYWP8wAxR-qPghgwr4iOtpT4bTg49oTfs6DlePZ8k3wQsw8M~~2qfNdEkhexTSzRTjGWDHE6dVY30KFYJ49b7q6-yPKMW68X-UNNUoDjxjzEevObb2JM~SQr2GJSqi9RgXsvx6bXCIGJ6GDNWeMM10Q__",
-      "backgroundColor": "#F7A593"
+      "backgroundColor": "rgba(247, 165, 147, 1)",
+      "borderColor": "rgba(247, 165, 147, 0.25)"
     },
     {
       "id": 2,
       "name": "Snacks",
       "image": "https://s3-alpha-sig.figma.com/img/e2fa/ac00/a6029bf4a611c1016eaf4b8f75db6d65?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Yagk7t5oHxvpUOqCWxQe7bE5sBeQhYGmfcbIVBRE62rwb3AnoQ3CRf8mNrCpFbFmcyiHy9DheaB1YwDaBaGDgbv7KR77BjoufOfeo6~tAYt0jnUDZuHrxyNjdI2DM~Mj-gXQ3IjR4KFTJgen60-8GNDDp9gfhbbGYb-epnX-MnVkaozopaVpYeVQbKlLlhg3EtQQsfvOIauz1VnNNuUSbxNAJznIohV2CrVckdv9kwFwYeL16yBMdWo4pGw9V8AiZv4zbClHzGwLtjFW4JvvM9suYDUabfeNTz7O0DyOIIOoHjU0LhmWp6XXMSpbq8cX-bX1HvDexxcVw~VW6smz5w__",
-      "backgroundColor": "#D3B0E0"
+      "backgroundColor": "rgba(211, 176, 224, 0.25)",
+      "borderColor": "rgba(211, 176, 224, 1)"
     },
     {
       "id": 3,
       "name": "Beverages",
       "image": "https://s3-alpha-sig.figma.com/img/cf75/9129/87c6a2d11af9c6213699a2c5c6e3fb48?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oru8aAEFdzXa2xYxrOb8VGMPiMf2dPhr1tf3DvVzwTYml-f5TX7QhKJMaxRGt5Xex75Cw3vHP17l6Tamxe8~QPzUydzqdHCEFxiVaB0~Ib-FGT-rhvligMbFpgjhl7SRYu9~MYgCBcViF9rINe4W8PVn8xH7cJamn3ePAovPVuFU4K1f3Ngf6ygt8n7eo5xiLxfG9XGgZC~8V6wzkikzrCIKuYuVDprbe2TttsFy1yxZQilWQRTFXCqDau6NG2YloMOT58Y3cn6iTF5712MrSoiJ~u7WYnQOIbN6ddWxz2bOP-cZ3PPScSol~esewwW2xUOi52rsV~3xIxdvpVlzxw__",
-      "backgroundColor": "#B7DFF5"
+      "backgroundColor": "rgba(183, 223, 245, 0.25)",
+      "borderColor": "rgba(183, 223, 245, 1)"
     },
     {
       "id": 4,
       "name": "Fruits",
       "image": "https://s3-alpha-sig.figma.com/img/ca51/c56f/c6c319bfab3990da934ed0eb9c5ae3e7?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=aG3-AjzpXD6S7wMA7wOWAMdyOmJIgWw5u6eJxZiiz0gj6SnJLw9tZFzvetpwKrqNHj4MhZCT1b5JxNKXw8T8L-iXbvNqcohDQDS2VsLz~S63Bcxd2G3nrrT-DfMoE6ft23FPTNOIA8m2YEM8w5c54NRWPlfFwiOrn7VcAf9GE-7SuPkAyt44z0Z9nUdA~G8Lej2b7XVlwcI21kZIbXSXovrbDTLbCcxCANAq07VSsy6NcFsIg0rFzWA566xValFhuM~AuMmkAVamv5vxmxNkPfUqmw2nrcZyHivao1XWOuAuuTAtVyay9BrYoDa-ANpIQngdsKEGeKL2VctKsSDgvw__",
-      "backgroundColor": "rgba(83, 177, 117, 0.7)"
+      "backgroundColor": "rgba(83, 177, 117, 0.1)",
+      "borderColor": "rgba(83, 177, 117, 0.7)"
     }
   ]
 }
